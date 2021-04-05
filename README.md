@@ -10,3 +10,4 @@ pics required: animation of player
     coin image,power image,obstacles image
     https://kuberapaul.github.io/my-game/
     https://jasaswini-mohanty.github.io/kuber-s-game/
+https://kuberapaul.github.io/My-game-2/
